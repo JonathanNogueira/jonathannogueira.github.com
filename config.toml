@@ -1,4 +1,4 @@
-baseURL = "jnog.dev"
+baseURL = "https://jnog.dev/"
 languageCode = "en-us"
 title = "Jonathan Nogueira"
 copyright = "Copyright © 2021 Jonathan Nogueira"
