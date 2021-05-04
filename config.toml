@@ -1,0 +1,27 @@
+baseURL = "jnog.dev"
+languageCode = "en-us"
+title = "Jonathan Nogueira"
+theme = "hello-friend-ng"
+copyright = "Copyright © 2021 Jonathan Nogueira"
+
+[params]
+  homeSubtitle = "Software Engineer // 👨‍💻"
+  description = "Jonathan Nogueira's personal website"
+  keywords = "homepage"
+
+[params.logo]
+  logoText = "jnog"
+  logoCursorColor = "cyan"
+
+[params.footer]
+  copyright = true
+
+[[params.social]]
+  name = "email"
+  url = "mailto:jonathan@jnog.dev"
+[[params.social]]
+  name = "github"
+  url = "https://github.com/jnog"
+[[params.social]]
+  name = "linkedin"
+  url = "https://www.linkedin.com/in/jonathan-nogueira"
